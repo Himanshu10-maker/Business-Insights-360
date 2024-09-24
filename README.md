@@ -1,31 +1,78 @@
 # Business-Insights-360
 
-# Unlocking Business Insights through Power BI: A Journey in Data Analytics and Visualization 
+# Project Overview
 
-I am thrilled to share my recent work using Power BI to drive actionable insights and transform complex datasets into meaningful visualizations. Working with a dataset that includes financial metrics, customer performance, and forecast accuracy, I employed a variety of data analytics techniques to provide comprehensive insights for business decision-makers.
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-# Key Contributions:
+I worked on this project by following the Codebasics PowerBi Course, Link to the course is
 
-ETL Operations: Extracted and transformed data from multiple sources, ensuring a seamless flow of accurate information into the reporting platform.
+# Tech stacks
 
-Data Cleaning: Applied advanced data cleaning techniques to eliminate inconsistencies and ensure high-quality, actionable data.
+SQL
+PowerBi Desktop
+Excel
+DAX language
+DAX studio (for optimizing the report)
+Project charter file
 
-Data Modelling: Developed a structured data model, integrating key dimensions like customer segments, product categories, and geographical regions to streamline reporting.
+# PowerBI techniques Learnt
 
-Data Transformation: Utilized DAX functions to create calculated columns and measures, making it easier to generate key performance indicators (KPIs).
+What are all the questions should be asked before staring the project
+Creating calculated columns
+creating measure using DAX language
+Data modeling
+Using Bookmarks to switch between two visuals
+Page navigation with buttons
+Using divide function to prevent zero division errors
+creating date table using m language
+Dynamic titles based on the applied filters
+Using KPI indicators
+Conditional formatting the values in visuals using icons or background color
+Data validation techniques
+PowerBi services
+Publishing reports to PowerBi services
+Setting up personal gateway to set up the auto refresh of data
+PowerBi App creation
+Collaboration, workspace, access permissions in PowerBi services
+And more 😅
 
-KPI Creation: Developed KPIs such as Net Sales, Gross Margin, and Net Profit, allowing stakeholders to track business performance over time.
+# Business related terms
 
-Power BI Visualization: Leveraged Power BI’s interactive visualizations to present data in intuitive dashboards, highlighting trends in Sales, Profitability, and Forecast Accuracy.
+Gross price
+Pre-invoice deductions
+Post-Invoice deductions
+Net Invoice sale
+Gross Margin
+Net sales
+Net profit
+COGC - cost of goods sold
+YTD - Year to Date
+YTG - Year to Go
+Direct
+Retailer
+Distributors
+Consumer
 
-# Key Insights:
+# Company’s back ground
+AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
-Analyzed Net Sales and Gross Margin by region and product, revealing trends such as the -1.86% year-over-year change in Net Sales.
+Retailers
+Direct
+Distributors
+Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-Provided deep dive insights into customer performance with metrics like Gross Margin % and Net Profit %, enabling stakeholders to understand profitability across different segments.
+Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-Created performance matrices to visualize key metrics, assisting executives with decision-making through comprehensive, top-level dashboards.
-
-Power BI not only empowered the team with better decision-making tools but also streamlined business reporting across departments including Sales, Finance, and Supply Chain.
-
-This project highlights the critical role that data analytics and business intelligence play in today's fast-paced, data-driven world.
+# Questions to ask before starting with dashboard
+What is the objective of building this PowerBi dashboard?
+In what terms the success of this project will be measured?
+What will be time dead-line of the project?
+do the stakeholders expecting pre-view before the actual release?
+What are all the hopes stakeholders have out of this project?
+what are all fears the stakeholder have in terms of building this dashboard?
+Who are all will be using this dashboard and for what purpose?
+what are all expectation the stakeholders have, by the completion of this project?
+What can go wrong while building this project?
+what are all the resources/ data needed to build this dashboard?
+is there any inputs from stakeholders in terms of design and views of the dashboard?
+After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
