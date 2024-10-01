@@ -8,7 +8,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 Portfolio Link : https://codebasics.io/portfolio/himanshu-yaduvanshi
 
-# Tech stacks
+# Tech stacks project
 
 SQL
 PowerBi Desktop
