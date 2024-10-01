@@ -6,6 +6,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the Project is : https://app.powerbi.com/view?r=eyJrIjoiMTlhOTQzMzMtMTk4MC00ZjNlLWE0NDktOTQxMmFjY2YwYWMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+Portfolio Link : https://codebasics.io/portfolio/himanshu-yaduvanshi
+
 # Tech stacks
 
 SQL
