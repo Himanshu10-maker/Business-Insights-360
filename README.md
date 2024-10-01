@@ -64,6 +64,9 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
+![image](https://github.com/user-attachments/assets/f55525a9-f149-4c17-b2dd-47cf58f65c3b)
+
+
 # Questions to ask before starting with dashboard
 1. What is the objective of building this PowerBi dashboard?
 2. In what terms the success of this project will be measured?
